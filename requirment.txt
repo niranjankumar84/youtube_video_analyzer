@@ -1,1 +1,6 @@
-
+streamlit
+agno
+groq
+python-dotenv
+ddgs
+youtube-transcript-api
